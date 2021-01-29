@@ -4,6 +4,6 @@ Hello, World! :sunrise:
 
 - :mortar_board: 专心考研 
 - :computer: 提高编程能力
--  :running:&nbsp&nbsp适量运动
+-  :running:&nbsp;&nbsp;适量运动
 - :book: 持续成体系学习
 
